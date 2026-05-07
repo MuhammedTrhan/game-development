@@ -2,17 +2,12 @@
 
 [ext_resource type="Script" uid="uid://48x6uf625bo7" path="res://test_scene.gd" id="1_uhqqe"]
 [ext_resource type="Texture2D" uid="uid://ctincokuqnkx1" path="res://icon.svg" id="2_ia1lp"]
-[ext_resource type="Script" path="res://area_2d.gd" id="2_sasra"]
+[ext_resource type="Script" uid="uid://cduyl0pogr8gv" path="res://area_2d.gd" id="2_sasra"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_sasra"]
 
 [node name="Node2D" type="Node2D" unique_id=1497849694]
 script = ExtResource("1_uhqqe")
-
-[node name="Label" type="Label" parent="." unique_id=1069691033]
-offset_right = 47.0
-offset_bottom = 23.0
-text = "Hello"
 
 [node name="Area2D" type="Area2D" parent="." unique_id=391192661]
 position = Vector2(452, 262)
