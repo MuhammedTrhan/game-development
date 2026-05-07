@@ -6,7 +6,7 @@
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_sasra"]
 
-[node name="Node2D" type="Node2D" unique_id=1497849694]
+[node name="TestScene" type="Node2D" unique_id=1497849694]
 script = ExtResource("1_uhqqe")
 
 [node name="Area2D" type="Area2D" parent="." unique_id=391192661]
