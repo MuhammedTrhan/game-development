@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://48x6uf625bo7" path="res://test_scene.gd" id="1_uhqqe"]
 [ext_resource type="Texture2D" uid="uid://ctincokuqnkx1" path="res://icon.svg" id="2_ia1lp"]
-[ext_resource type="Script" uid="uid://cduyl0pogr8gv" path="res://area_2d.gd" id="2_sasra"]
+[ext_resource type="Script" path="res://area_2d.gd" id="2_sasra"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_sasra"]
 
